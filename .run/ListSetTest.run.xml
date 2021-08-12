@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ListSetTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="concurrent" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="edu.coursera.concurrent.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="edu.coursera.concurrent" />
+    <option name="MAIN_CLASS_NAME" value="edu.coursera.concurrent.ListSetTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" value="-ea -XX:ActiveProcessorCount=4" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
